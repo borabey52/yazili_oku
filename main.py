@@ -10,7 +10,7 @@ import re
 st.set_page_config(page_title="AI Sınav Asistanı v3.8", layout="wide")
 
 # API ANAHTARINI BURAYA YAPIŞTIR
-SABIT_API_KEY = "BURAYA_API_ANAHTARINI_YAPISTIR" 
+SABIT_API_KEY = "AIzaSyA7mNcnlQRLf2FjBPayc_GVztdzOoHnxt8" 
 
 # Hafıza Ayarları
 if 'yuklenen_resimler_v3' not in st.session_state:
